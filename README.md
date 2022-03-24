@@ -1,6 +1,6 @@
 ![](./src/git-background.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=305745&lines=Hi+there+%F0%9F%91%8B%2C+I'm+AinarsK;Welcome+to+My+Profile!;Full-stack+developer+always+improving+skills.;Coding+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=305745&lines=Hi+there+%F0%9F%91%8B%2C+I'm+AinarsK;Welcome+to+My+Profile!;I'm+Full-stack+Developer;Always+learning+always+improving.;Coding+enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40>
